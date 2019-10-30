@@ -1,0 +1,14 @@
+C:\Users\1225975\source\repos\Unicron\Unicron\bin\Debug\netcoreapp2.2\Unicron.deps.json
+C:\Users\1225975\source\repos\Unicron\Unicron\bin\Debug\netcoreapp2.2\Unicron.runtimeconfig.json
+C:\Users\1225975\source\repos\Unicron\Unicron\bin\Debug\netcoreapp2.2\Unicron.runtimeconfig.dev.json
+C:\Users\1225975\source\repos\Unicron\Unicron\bin\Debug\netcoreapp2.2\Unicron.dll
+C:\Users\1225975\source\repos\Unicron\Unicron\bin\Debug\netcoreapp2.2\Unicron.pdb
+C:\Users\1225975\source\repos\Unicron\Unicron\obj\Debug\netcoreapp2.2\Unicron.csprojAssemblyReference.cache
+C:\Users\1225975\source\repos\Unicron\Unicron\obj\Debug\netcoreapp2.2\Unicron.csproj.CoreCompileInputs.cache
+C:\Users\1225975\source\repos\Unicron\Unicron\obj\Debug\netcoreapp2.2\Unicron.RazorAssemblyInfo.cache
+C:\Users\1225975\source\repos\Unicron\Unicron\obj\Debug\netcoreapp2.2\Unicron.RazorAssemblyInfo.cs
+C:\Users\1225975\source\repos\Unicron\Unicron\obj\Debug\netcoreapp2.2\Unicron.AssemblyInfoInputs.cache
+C:\Users\1225975\source\repos\Unicron\Unicron\obj\Debug\netcoreapp2.2\Unicron.AssemblyInfo.cs
+C:\Users\1225975\source\repos\Unicron\Unicron\obj\Debug\netcoreapp2.2\Unicron.RazorTargetAssemblyInfo.cache
+C:\Users\1225975\source\repos\Unicron\Unicron\obj\Debug\netcoreapp2.2\Unicron.dll
+C:\Users\1225975\source\repos\Unicron\Unicron\obj\Debug\netcoreapp2.2\Unicron.pdb
